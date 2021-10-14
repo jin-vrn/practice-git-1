@@ -1,3 +1,0 @@
-My first string
-My first line in project
-Some text
