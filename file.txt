@@ -1,1 +1,2 @@
-My first line in project
+My first string
+My second string, but not end
